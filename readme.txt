@@ -1,0 +1,1 @@
+Shark Token listing templates for CoinGecko and CMC.
